@@ -37,4 +37,4 @@ This project analyzes restaurant data to uncover insights on cuisine popularity,
 - **Data Visualization**: Histograms, Bar Charts, Interactive Maps
 
 ## 🔗 LinkedIn Post
-Check out my detailed LinkedIn post about this project: LinkedIn Post (Replace with actual post link)
+Check out my detailed LinkedIn post about this project: LinkedIn Post (https://www.linkedin.com/in/jameel-ahmed9/recent-activity/all/)
